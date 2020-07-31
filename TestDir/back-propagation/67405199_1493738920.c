@@ -10,7 +10,7 @@ double sigprime(const double x) {
 	return 1.0 - sigmoid(x);
 }
 
-
+// Test commit
 main () {
 
 double x=.75;
